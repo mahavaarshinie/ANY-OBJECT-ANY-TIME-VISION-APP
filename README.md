@@ -6,7 +6,7 @@ Unlike traditional computer vision applications that rely on massive training se
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Dynamic Target Memory Enrollment:** Zero hardcoded dataset reliance. Upload 2-5 reference snapshots of *any physical object* (e.g., microchips, bottles, precision components) to instantly generate a temporary coreset matrix in local RAM.
 * **Pure JavaScript Execution Edge Engine:** Operates entirely offline with zero multi-server orchestration or external Python API bottlenecks. Feature tracing runs directly inside Serverless Next.js Node routes.
@@ -15,7 +15,7 @@ Unlike traditional computer vision applications that rely on massive training se
 
 ---
 
-## 🧠 Architectural Overview & Deep Learning Pipeline
+## Architectural Overview & Deep Learning Pipeline
 
 ```mermaid
 graph TD
