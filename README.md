@@ -26,6 +26,4 @@ graph TD
     E --> F{Within Calibrated Threshold?}
     F -- Yes --> G[NORMAL COMPLIANT Status]
     F -- No --> H[ANOMALY DETECTED Warning]
-<img width="1682" height="833" alt="Screenshot 2026-06-16 033859" src="https://github.com/user-attachments/assets/3bbe79b9-62fd-4497-bcd2-4cfff78c0bb1" />
-<img width="1697" height="835" alt="Screenshot 2026-06-16 032746" src="https://github.com/user-attachments/assets/858157a2-6031-4e8f-9ca5-631d90a4ab20" />
 
